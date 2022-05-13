@@ -1,3 +1,1 @@
-Takeaways :
-
-Adding bootstrap link + script adds flavor to the website.
+Personal portfolio that displays projects I've worked on + skills
